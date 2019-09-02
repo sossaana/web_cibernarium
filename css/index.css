@@ -4,3 +4,7 @@ header { /*selector css*/
   height: 150px; /*nombre de la propiedad : valor de la propiedad*/
   background-color: red;
 }
+h1{
+  color: white;
+  font-size: 50px;
+}
